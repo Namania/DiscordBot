@@ -1,0 +1,9 @@
+{
+    "token": "",
+    "MsgDisable": "Cette commande est désactivée sur votre serveur !",
+    "MsgErrorPermissions": "Vous n'avez pas la permissions d'utiliser cette commande !",
+    "prefix": ".",
+    "IdNamania": "516313531721973760",
+    "IdBot": "861218421445492736",
+    "InviteURL": "https://discord.com/api/oauth2/authorize?client_id=861218421445492736&permissions=8&scope=bot"
+}

@@ -1,0 +1,14 @@
+{
+    "server": true,
+    "links": true,
+    "help": true,
+    "mc": true,
+    "clear": true,
+    "ban": true,
+    "unban": true,
+    "mute": true,
+    "tempmute": true,
+    "unmute": true,
+    "setup": true,
+    "ticket": true
+}
